@@ -1,5 +1,9 @@
 # SpotCheck -- Pup Friendly Restaurants
 
+## Video of site in action
+
+[Video](https://youtu.be/IW1INo2XOqw)
+
 ## About the app
 
 SpotCheck is mobile app that allows the user to find dog-friendly restaurants nearby or through a city search. The app has a social component: users who login may post restaurant reviews and 'check-in' to a location they are in or very close to.
